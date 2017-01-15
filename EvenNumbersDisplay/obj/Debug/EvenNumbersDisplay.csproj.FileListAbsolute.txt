@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2013\Projects\ConsoleApplication1\EvenNumbersDisplay\bin\Debug\EvenNumbersDisplay.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\ConsoleApplication1\EvenNumbersDisplay\bin\Debug\EvenNumbersDisplay.exe
+c:\users\dell\documents\visual studio 2013\Projects\ConsoleApplication1\EvenNumbersDisplay\bin\Debug\EvenNumbersDisplay.pdb
+c:\users\dell\documents\visual studio 2013\Projects\ConsoleApplication1\EvenNumbersDisplay\obj\Debug\EvenNumbersDisplay.exe
+c:\users\dell\documents\visual studio 2013\Projects\ConsoleApplication1\EvenNumbersDisplay\obj\Debug\EvenNumbersDisplay.pdb
+c:\users\dell\documents\visual studio 2013\Projects\ConsoleApplication1\EvenNumbersDisplay\obj\Debug\EvenNumbersDisplay.csprojResolveAssemblyReference.cache

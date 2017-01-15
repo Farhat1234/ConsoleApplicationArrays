@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2013\Projects\ConsoleApplication1\CalculateSum\bin\Debug\CalculateSum.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\ConsoleApplication1\CalculateSum\bin\Debug\CalculateSum.exe
+c:\users\dell\documents\visual studio 2013\Projects\ConsoleApplication1\CalculateSum\bin\Debug\CalculateSum.pdb
+c:\users\dell\documents\visual studio 2013\Projects\ConsoleApplication1\CalculateSum\obj\Debug\CalculateSum.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\ConsoleApplication1\CalculateSum\obj\Debug\CalculateSum.exe
+c:\users\dell\documents\visual studio 2013\Projects\ConsoleApplication1\CalculateSum\obj\Debug\CalculateSum.pdb

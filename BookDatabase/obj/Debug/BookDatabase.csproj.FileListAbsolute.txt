@@ -1,0 +1,6 @@
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\ConsoleApplication1\BookDatabase\bin\Debug\BookDatabase.exe.config
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\ConsoleApplication1\BookDatabase\bin\Debug\BookDatabase.exe
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\ConsoleApplication1\BookDatabase\bin\Debug\BookDatabase.pdb
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\ConsoleApplication1\BookDatabase\obj\Debug\BookDatabase.exe
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\ConsoleApplication1\BookDatabase\obj\Debug\BookDatabase.pdb
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\ConsoleApplication1\BookDatabase\obj\Debug\BookDatabase.csprojResolveAssemblyReference.cache

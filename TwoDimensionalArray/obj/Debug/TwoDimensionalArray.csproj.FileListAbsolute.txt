@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2013\Projects\ConsoleApplication1\TwoDimensionalArray\bin\Debug\TwoDimensionalArray.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\ConsoleApplication1\TwoDimensionalArray\bin\Debug\TwoDimensionalArray.exe
+c:\users\dell\documents\visual studio 2013\Projects\ConsoleApplication1\TwoDimensionalArray\bin\Debug\TwoDimensionalArray.pdb
+c:\users\dell\documents\visual studio 2013\Projects\ConsoleApplication1\TwoDimensionalArray\obj\Debug\TwoDimensionalArray.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\ConsoleApplication1\TwoDimensionalArray\obj\Debug\TwoDimensionalArray.exe
+c:\users\dell\documents\visual studio 2013\Projects\ConsoleApplication1\TwoDimensionalArray\obj\Debug\TwoDimensionalArray.pdb

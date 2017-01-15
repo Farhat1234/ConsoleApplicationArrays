@@ -1,0 +1,5 @@
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\ConsoleApplication1\RecursivePalindrome\bin\Debug\RecursivePalindrome.exe.config
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\ConsoleApplication1\RecursivePalindrome\bin\Debug\RecursivePalindrome.exe
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\ConsoleApplication1\RecursivePalindrome\bin\Debug\RecursivePalindrome.pdb
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\ConsoleApplication1\RecursivePalindrome\obj\Debug\RecursivePalindrome.exe
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\ConsoleApplication1\RecursivePalindrome\obj\Debug\RecursivePalindrome.pdb
